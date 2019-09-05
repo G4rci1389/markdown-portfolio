@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[This is a random image](https://www.freeimages.com/photo/falloxbow-1058032)
